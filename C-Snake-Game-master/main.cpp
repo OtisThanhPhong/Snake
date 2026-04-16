@@ -3,7 +3,7 @@
 #include <ctime>
 
 #include "Snake.h"
-#include "Food.h"
+#include "Foo
 
 #define WIDTH 50
 #define HEIGHT 25
